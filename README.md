@@ -12,7 +12,7 @@ Download openresearchlabs.rbxl and open using Roblox Studio
 
 Publish openresearchlabs.rbxl to a Roblox place to activate the game. The place file is functional in Play Solo, however, you may experience datastore issues.
 
-Source files have been extracted using [rbxlx-to-rojo]https://github.com/rojo-rbx/rbxlx-to-rojo, and are available in src/
+Source files have been extracted using [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo), and are available in src/
 
 # Creator
 - Albert
