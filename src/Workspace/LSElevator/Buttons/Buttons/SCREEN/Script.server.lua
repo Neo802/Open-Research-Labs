@@ -1,0 +1,1 @@
+script.Parent.GUI.TextLabel.Text = script.Parent.Parent.Floor.Value
