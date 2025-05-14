@@ -1,3 +1,3 @@
 - Albert([iGCEL](https://www.roblox.com/users/481225191/profile)) - Creator of the Research Labs
-- Jackson([CoolJackoWacko](https://www.roblox.com/users/25327301/profile)) - Contributed to the restoration of the project after my permanent ban in 2016
+- Jackson([CoolJackoWacko](https://www.roblox.com/users/25327301/profile)) - Contributed to the restoration of the project following my permanent ban in 2016
 - All of you for playing the game throughout the years
