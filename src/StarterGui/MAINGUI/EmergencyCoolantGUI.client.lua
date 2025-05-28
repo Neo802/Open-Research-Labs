@@ -2,7 +2,7 @@ game.ReplicatedStorage.EmergencyCoolantACT.OnClientEvent:connect(function(plr)
 	if game.Workspace["MAIN.VALUES"].EMERGENCYCOOLANT.Value == true and script.Parent.VALUES.Intro.Value == false then
 		game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.All, false)
 		--local plr = ""..game.Workspace["MAIN.VALUES"].ACTIVATOR.Value
-		script.Parent.Parent.SHOPUI.Enabled = false
+		--script.Parent.Parent.SHOPUI.Enabled = false
 		script.Parent.ECoolant.Frame.Position = UDim2.new(0, 0,-0.105, 0)
 		script.Parent.ECoolant.Frame2.Position = UDim2.new(0, 0,0.905, 0)
 		game.Workspace["MAIN.VALUES"].CUTSCENE.Value = 1 
