@@ -9,6 +9,7 @@ Open Source under [GPL-3.0 License](https://github.com/Neo802/Open-Research-Labs
 
 # Usage
 Download [openresearchlabs.rbxl](https://github.com/Neo802/Open-Research-Labs/blob/main/openresearchlabs.rbxl) and open using Roblox Studio
+If you want to use the 2016 version instead: [openresearchlabs2016](https://github.com/Neo802/Open-Research-Labs/releases/download/Classic/openresearchlabs2016.rbxl)
 
 Publish the file to a Roblox place to activate the game. The place file is functional in Play Solo, however, you may experience datastore issues.
 
