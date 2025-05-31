@@ -134,7 +134,6 @@ function Initiate()
 		game.ReplicatedStorage.NanobotsGUI:FireAllClients(0)
 		game.Workspace["MAIN.DEBRIS"]:ClearAllChildren()
 		NOTIFICATION:FireAllClients("Nanobots", "Thank you for calling us, the facility is now repaired. Respawning you shortly...")
-		script.Parent.LockerService.Disabled = false
 		script.Parent.Gate.Disabled = false
 		debounce = false
 
