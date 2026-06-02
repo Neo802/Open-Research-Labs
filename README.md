@@ -19,5 +19,3 @@ Source files have been extracted using [rbxlx-to-rojo](https://github.com/rojo-r
 # Creator
 - Albert
 - [@iGCEL](https://www.roblox.com/users/481225191/profile)
-
-Copyright (c) 2025 Albert
